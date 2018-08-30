@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Tour Uganda</string>
+
+    <string name="restaurants">Restaurants</string>
+    <string name="hotels">Hotels</string>
+    <string name="schools">Schools</string>
+    <string name="malls">Malls</string>
+
+    <string name="hotel_name1">Cafe Pap</string>
+    <string name="hotel_addr1">Plot 13B, Amadinda house, Parliamentary avenue, Kampala, Uganda</string>
+    <string name="hotel_desc1">Cafe Pap is that place where you can grab a quick coffee breakfast,
+        come back for a light lunch and then after work, you and your friends can enjoy a
+        fresh Cappuccino with a pastry. With its well organised indoor sitting area with comfortable wooden seats,
+        cafe pap is a go to place when you need it coffee espresso.</string>
+
+    <string name="hotel_name2">Hotel Africana</string>
+    <string name="hotel_addr2">157, Shamla Hill, Bhopal, Madhya Pradesh 462013</string>
+    <string name="hotel_description2">Hotel Africana is a very nice place in kampala offering all eats of all kinds
+    , lodging as well as conference halls for meetings. Go there one day, you\'ll talk for your sef</string>
+
+    <string name="mall_name1">Mega Mall</string>
+    <string name="mall_addr1">Plot 67, access Road Kampala, Uganda</string>
+    <string name="mall_addr2">Plot 32, Kampala road, kampala, Uganda</string>
+    <string name="mall_name2">Joe Mall</string>
+
+    <string name="rest_name1">CIB Restaurant</string>
+    <string name="rest_addr1">Plot 18 Nile avenue, Uganda House, Kampala, Uganda</string>
+    <string name="rest_addr2">Off colvile road, Bugolobi, Kampala, Uganda</string>
+    <string name="rest_name2">Mangaiko Restaurant</string>
+
+    <string name="sch_name1">Ndejje University</string>
+    <string name="sch_addr1">Along Balintuma road, Mengo, Kampala.</string>
+    <string name="sch_addr2">Located in the western uganda along Kasese, Bushenyi highway in Uganda</string>
+    <string name="sch_name2">Kichwamba High School</string>
+</resources>
